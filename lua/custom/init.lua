@@ -1,4 +1,3 @@
-require("custom.options")
-require("custom.remap")
-require("custom.autocmd")
+require("custom.core")
 require("custom.lazy")
+require("custom.lsp")

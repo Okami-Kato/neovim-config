@@ -1,7 +1,7 @@
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 
-vim.o.winborder = 'rounded'
+vim.o.winborder = "rounded"
 
 -- Set to true if you have a Nerd Font installed
 vim.g.have_nerd_font = true
